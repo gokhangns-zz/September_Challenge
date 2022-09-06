@@ -9,3 +9,5 @@
 04 Eylül 2022 - Otobüs Saatlerini Sorgulama
 
 05 Eylül 2022 - Tek Sayı Yazdırma 
+
+06 Eylül 2022 - İki Sayıyı Karşılaştırma
