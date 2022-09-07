@@ -11,3 +11,5 @@
 05 Eylül 2022 - Tek Sayı Yazdırma 
 
 06 Eylül 2022 - İki Sayıyı Karşılaştırma
+
+07 Eylül 2022 - Girilen Sayının Rakamları Toplamı Hesaplama
