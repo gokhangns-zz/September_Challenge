@@ -13,3 +13,5 @@
 06 Eylül 2022 - İki Sayıyı Karşılaştırma
 
 07 Eylül 2022 - Girilen Sayının Rakamları Toplamı Hesaplama
+
+08 Eylül 2022 - Girilen Üç Basamaklı Sayıyı Yazı İle Yazma
