@@ -17,3 +17,5 @@
 08 Eylül 2022 - Girilen Üç Basamaklı Sayıyı Yazı İle Yazma
 
 09 Eylül 2022 - Girilen Sayının Tek mi Çift mi Olduğunu Bulma
+
+10 Eylül 2022 - Plaka Sorgulama
