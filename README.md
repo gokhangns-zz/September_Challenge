@@ -21,3 +21,5 @@
 10 Eylül 2022 - Plaka Sorgulama
 
 11 Eylül 2022 - Girilen Kenar Sayısına Göre İç Açılarını Bulma
+
+12 Eylül 2020 - Dikdörtgenin Alanı ve Çevresini Bulma
