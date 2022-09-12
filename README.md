@@ -1,4 +1,4 @@
-# 30_Gun_30_Python_Projesi
+# September_Challenge
 
 01 Eylül 2022  - Yaş Hesaplama
 
