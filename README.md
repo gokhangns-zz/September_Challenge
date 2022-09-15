@@ -27,3 +27,6 @@
 13 Eylül 2022 - Güncel Tarih Ve Saat Öğrenme
 
 14 Eylül 2022 - Yazılanları Tersten Yazma 
+
+15 Eylül 2022 - İsminizin Baş Harfi ve Karakter Sayısı Kadar Piramit Basamağı Oluşturma
+
