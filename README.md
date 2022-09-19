@@ -34,4 +34,6 @@
 
 17 Eylül 2022 - Girilen Sayıyı Binary Sisteme Çevirme 
 
-18 -Eylül 2022 - Şifre Oluşturma
+18 Eylül 2022 - Şifre Oluşturma
+
+19 Eylül 2022 - Girilen Sayıya Kadar Tek Ve Çift Sayıları Toplama
