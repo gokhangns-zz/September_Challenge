@@ -41,3 +41,5 @@
 20 Eylül 2022 - Vücut Kitle Endeksi 
 
 21 Eylül 2022 - Girilen Sayının 1 ile 10 Arasında Çarpımı
+
+22 Eylül 2022 - Armstrong Sayısı Bulma
