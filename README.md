@@ -39,3 +39,5 @@
 19 Eylül 2022 - Girilen Sayıya Kadar Tek Ve Çift Sayıları Toplama
 
 20 Eylül 2022 - Vücut Kitle Endeksi 
+
+21 Eylül 2022 - Girilen Sayının 1 ile 10 Arasında Çarpımı
